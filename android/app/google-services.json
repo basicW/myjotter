@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992306420418",
+    "project_id": "my-bloc-memo-by-jay",
+    "storage_bucket": "my-bloc-memo-by-jay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992306420418:android:053baf0db2be668a7f795b",
+        "android_client_info": {
+          "package_name": "com.jaymt1.myjotter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7BGU9ohQBAO1KdWXHX41PYEP7PEFACU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
